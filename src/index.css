@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding-top: 4rem;
+  margin-top: 5rem;
+  height: 100%;
+}
